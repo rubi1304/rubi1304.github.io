@@ -1,6 +1,6 @@
 ---
-title: TestFolderSub1
-parent: testsubpage1
+title: TestFolderSub1Sub1
+parent: TestFolderSub1
 layout: home
 ---
 
