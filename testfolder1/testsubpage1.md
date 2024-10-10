@@ -1,5 +1,6 @@
 ---
 title: TestFolderSub1
+parent:testpage1
 layout: home
 ---
 
