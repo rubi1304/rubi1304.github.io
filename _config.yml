@@ -12,4 +12,4 @@ nav_external_links:
     parent: testpage1
     url: https://store.steampowered.com/app/960090/Bloons_TD_6/
     hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
