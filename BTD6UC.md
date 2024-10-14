@@ -23,7 +23,7 @@ El modo por defecto tiene las restricción de 7 mejoras totales con lo que puede
 ### Dice "Failed to load Assembly... No Compatibility Layer Found!"
   ["BloonsTD6 Mod Helper"](https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest) no está instalado correctamente. Asegurate de tener la versión más reciente y de que has extraído el archivo zip para tener un archivo en tu carpeta de mods con el nombre exacto "BloonsTD6 Mod Helper.dll".
 
-  ### ¿¡¿El coste de una mejora es un número ridículamente alto?!?
+### ¿¡¿El coste de una mejora es un número ridículamente alto?!?
   Eso es la forma de Ninja Kiwi de decir que no existe una torre a la que mejorar, lo que generalmente significa que el "Mod Helper" no está instalado correctamente. Mira la respuesta anterior. Revisa también los Logs del mod para ver si hubo algún error generando las torres. El coste en si no es el problema.
 
 # Desarrollando "Ultimate Crosspathing"
