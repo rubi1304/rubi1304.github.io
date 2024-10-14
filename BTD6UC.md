@@ -1,3 +1,8 @@
+---
+title: BTD6UC
+parent: testpage1
+layout: home
+---
 # Ultimate Crosspathing
 
 Un mod **(modificacion)** de BTD6 añadiendo más combinaciones de mejoras mediante generación algorítmica.
